@@ -1,0 +1,10 @@
+open terminal ([>_])
+clone repository by entering this:git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+replace network-username:your-network-password with wifi login infromation and https://github.com/your-github-username/your-github-repository-name.git with repository link
+open your repository by typing cd (repository name)/ the press enter
+it will open the files shown in your repository, there should be one file name LICENSE README.md
+open that file by typing gedit README.md, this will open the file, if the file does not exist, it will create one for you.
+edit the file as much as required the save, after saving, go back to the terminal and type git add, if you do not need to edit it any further, type in git commit -m "(comment for file)", if you need to edit the file more you can, but then you need to repeat the git add step. 
+if you no longer need to edit the file and have completed the git add and git commit step, type in git push. it will ask you for your github username and password.
+after completing those, it will puch everything you did to the file to your github acount.
+Repeat this for the rest of your life...

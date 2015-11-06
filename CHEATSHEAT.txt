@@ -1,5 +1,5 @@
 Boss
-Gedit ______(file name)
+gedit ______(file name)
 git add
 git commit -m "_(comment)_"
 git push

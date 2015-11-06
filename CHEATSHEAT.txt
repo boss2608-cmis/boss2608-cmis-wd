@@ -6,3 +6,8 @@ git push
 cd/cd ..
 ls = list
 python -m SimpleHTTPServer
+!ls
+ls *(optional)
+rm *(optional)
+put *(optional)
+!ls *(optional)

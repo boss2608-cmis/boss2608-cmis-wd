@@ -1,12 +1,29 @@
 h1 {
-	color:orange;
+	color: #FFFFFF;
 }
 h2 {
-	color:orange;
+	color: #FFFFFF;
 }
 body {
-	background-color: #b0c4de;
+	background-color: #3399FF;
 }
 p {
-    margin-top: 630px;
+    margin-top: 540px;
+}
+main {
+	color: #FFFFFF;
+}
+footer {
+	color: #FFFFFF;
+}
+h1 {
+	font-family: "Doodle gum", "Times New Roman";
+	font-size: 50px;
+}
+h2 {
+	font-family: Coalition;
+	font-size: 30px;
+}
+footer {
+	font-family: Coalition;
 }

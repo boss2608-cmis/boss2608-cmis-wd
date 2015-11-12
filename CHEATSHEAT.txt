@@ -11,3 +11,4 @@ ls *(optional)
 rm *(optional)
 put *(optional)
 !ls *(optional)
+sftp Boss2608@cmis-hsteacher

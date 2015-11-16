@@ -1,0 +1,42 @@
+h1 {
+	color: #FFFF00;
+	border: solid;
+	border-color: #019201;
+	background-color: #019201;
+	border-bottom: dashed;
+	font-family: Impact, fantasy;
+	font-style: italic;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-style: solid hidden dashed hidden;
+	border-width: 4px;
+}
+h2 {
+	color: #0000FF;
+	border: solid;
+	border-color: #FF0000;
+	background-color: #FF0000;
+	margin-top: -23px;
+	font-family: Impact, fantasy;
+	font-style: italic;
+	font-size: 15px;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	margin-top: 00px;
+	margin-bottom: 10px;
+}
+p {
+	color: #0000FF;
+	margin-top: 30px;
+	border: hidden;
+}
+h3 {
+	font-size: 25px;
+	border-style: hidden;
+	background-color: #990099;
+}
+h4 {
+	border-style: dashed hidden hidden hidden;
+	background-color: #FFFF00;
+	border-color: 
+}

@@ -8,7 +8,7 @@ h2 {
 	color: #FFFFFF;
 }
 body {
-	background-color: #3399FF;
+	background-image: url("woodbackground.jpg");
 }
 p {
     margin-bottom: 0px;
@@ -38,22 +38,18 @@ footer {
 	border-style: solid;
 	border-bottom: thick #FFFFFF;
 	border-bottom-style: solid;
-	background-color: #0066FF;
 	border-width: 5px;	
 }
 h2 {
 	border-style: dotted;
-	background-color: #0066FF;
 }
 main {
 	border-style: dashed;
-	background-color: #6699ff;
 }
 h1 {
 	border-style: solid;
 	border-top: thick #FFFFFF;
 	border-top-style: dashed;
-	background-color: #0066FF;
 	border-width: 5px;
 }
 comment {Create a new file called "main.css"
@@ -70,4 +66,8 @@ Validate your main.css file.
 Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
 Upload to the production server with sftp.
 View your index.html in the production server.
+}
+nav {
+	color: #FFFFFF;
+	font-size: 20px;
 }

@@ -1,3 +1,85 @@
-h1{
-	
+body {
+	background-image: url("http://th07.deviantart.net/fs70/PRE/f/2014/127/f/e/hexagon_wallpaper___version_3_by_designedby_jack-d7hh9xo.png");
+}
+h1 {
+	color: white;
+	border-style: dashed;
+}
+h2 {
+	color: white;
+	border-style: dashed;
+}
+h2.Razor {
+	float: left;
+	clear: left;
+
+}
+h2.wireless {
+	float: left;
+	clear: left;
+	width: 1565px;
+}
+h3 {
+	color: white;
+	border-style: solid;
+}
+h3.Pro {
+	float: left;
+	clear: left;
+	width: 900px;
+}
+h3.Chroma {
+	float: left;
+	clear: left;
+	width: 900px;
+}
+h3.USB {
+	float: left;
+	clear: left;
+	width: 900px;
+}
+h3.XboxOne {
+	float: left;
+	clear: left;
+	width: 900px;
+}
+p {
+	color: white;
+	border-style: solid;
+	float: left;
+	clear: left;
+	width: 900px;
+}
+img.Mobile {
+	float: left;
+	clear: left;
+}
+img.Pro {
+	float: left;
+	clear: left;
+}
+img.Chroma {
+	float: left;
+	clear: left;
+}
+img.Xbox {
+	float: left;
+	clear: left;
+}
+img.USB {
+	float: left;
+	clear: left;
+}
+img.wireless {
+	float: left;
+	clear: left;
+}
+li {
+	float: left;
+	clear: left;
+}
+footer {
+	color: white;
+	float: left;
+	clear: left;
 }

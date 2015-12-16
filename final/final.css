@@ -6,18 +6,30 @@ h1 {
 	border-style: dashed;
 }
 h2 {
+	float: left;
+	clear: left;
 	color: white;
 	border-style: dashed;
+	width: 1570px;
 }
 h2.Razor {
 	float: left;
 	clear: left;
-
+	width: 1565px;
 }
 h2.wireless {
 	float: left;
 	clear: left;
 	width: 1565px;
+}
+h2.Skullcandy {
+	float: left;
+	clear: left;
+	width: 1565px;
+}
+h2.Mix {
+	float: left;
+	clear: left;
 }
 h3 {
 	color: white;
@@ -39,6 +51,16 @@ h3.USB {
 	width: 900px;
 }
 h3.XboxOne {
+	float: left;
+	clear: left;
+	width: 900px;
+}
+h3.PREMIUMPITCH {
+	float: left;
+	clear: left;
+	width: 900px;
+}
+h3.Sweat {
 	float: left;
 	clear: left;
 	width: 900px;
@@ -74,7 +96,20 @@ img.wireless {
 	float: left;
 	clear: left;
 }
+img.Bone {
+	float: left;
+	clear: left;
+}
+img.Skull {
+	float: left;
+	clear: left;
+}
+img.Plyr2 {
+	float: left;
+	clear: left;
+}
 li {
+	color: white;
 	float: left;
 	clear: left;
 }

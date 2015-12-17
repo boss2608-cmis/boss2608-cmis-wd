@@ -1,9 +1,12 @@
-body {
-	background-image: url("http://th07.deviantart.net/fs70/PRE/f/2014/127/f/e/hexagon_wallpaper___version_3_by_designedby_jack-d7hh9xo.png");
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+body{	background-image: url("http://p1.pichost.me/i/20/1428758.jpg");
 }
 h1 {
 	color: white;
 	border-style: dashed;
+	font-family: 'Poiret One', cursive;
 }
 h2 {
 	float: left;
@@ -16,61 +19,83 @@ h2.Razor {
 	float: left;
 	clear: left;
 	width: 1565px;
+	font-family: 'Poiret One', cursive;
 }
 h2.wireless {
 	float: left;
 	clear: left;
 	width: 1565px;
+	font-family: 'Poiret One', cursive;
 }
 h2.Skullcandy {
 	float: left;
 	clear: left;
 	width: 1565px;
+	font-family: 'Poiret One', cursive;
 }
 h2.Mix {
 	float: left;
 	clear: left;
+	font-family: 'Poiret One', cursive;
 }
 h3 {
 	color: white;
 	border-style: solid;
+	font-family: 'Montserrat', sans-serif;
 }
 h3.Pro {
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Montserrat', sans-serif;
 }
 h3.Chroma {
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Montserrat', sans-serif;
 }
 h3.USB {
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Montserrat', sans-serif;
 }
 h3.XboxOne {
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Montserrat', sans-serif;
 }
 h3.PREMIUMPITCH {
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Montserrat', sans-serif;
 }
 h3.Sweat {
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Montserrat', sans-serif;
 }
 p {
 	color: white;
-	border-style: solid;
+	border-style: none;
 	float: left;
 	clear: left;
 	width: 900px;
+	font-family: 'Slabo 27px', serif;
+}
+p.p1 {
+	float: left;
+	clear: left;
+	width: 500px;
+}
+p.p2 {
+	float: left;
+	clear: left;
+	width: 500px;
 }
 img.Mobile {
 	float: left;
@@ -108,13 +133,33 @@ img.Plyr2 {
 	float: left;
 	clear: left;
 }
+img.home {
+	float: left;
+	clear: left;
+	width: 400px;
+}
 li {
 	color: white;
 	float: left;
 	clear: left;
 }
+li.sidebar {
+	float: right;
+	clear: right;
+}
 footer {
 	color: white;
 	float: left;
 	clear: left;
+}
+nav {
+	float: right;
+	clear: right;
+}
+a {
+	color: white;
+}
+ul.ul1 {
+	float: right;
+	clear: right;
 }
